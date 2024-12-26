@@ -5,21 +5,63 @@
         "name": "Modern Sofa",
         "description": "A stylish and comfortable modern sofa.",
         "price": 499.99,
-        "image": "https://via.placeholder.com/150"
+        "image": "modern sofa.jpg"
       },
       {
         "id": 2,
         "name": "Dining Table",
         "description": "A sturdy dining table for your family meals.",
         "price": 299.99,
-        "image": "https://via.placeholder.com/150"
+        "image": "dining table.jpg"
       },
       {
         "id": 3,
         "name": "Office Chair",
         "description": "An ergonomic office chair for your workspace.",
         "price": 149.99,
-        "image": "https://via.placeholder.com/150"
+        "image": "office chair.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Wooden Bed Frame",
+        "description": "A solid wooden bed frame for your bedroom.",
+        "price": 399.99,
+        "image": "bed frame.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Bookshelf",
+        "description": "A spacious bookshelf for your books and decor.",
+        "price": 199.99,
+        "image": "book shelf.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Coffee Table",
+        "description": "A modern coffee table with a sleek design.",
+        "price": 149.99,
+        "image": "coffee table.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Recliner Chair",
+        "description": "A comfortable recliner chair for relaxing.",
+        "price": 299.99,
+        "image": "recliner.jpg"
+      },
+      {
+        "id": 8,
+        "name": "TV Stand",
+        "description": "A sturdy TV stand with ample storage space.",
+        "price": 249.99,
+        "image": "tv stand.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Wardrobe",
+        "description": "A spacious wardrobe for your clothes and accessories.",
+        "price": 549.99,
+        "image": "wardrope.jpg"
       }
     ]
   }
